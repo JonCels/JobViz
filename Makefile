@@ -12,10 +12,8 @@ CLASSES = \
 	src/ParseT.java \
     src/HashT.java \
     src/ApplicationT.java \
-
 	src/tests/TestSalaryT.java \
 	src/tests/AllTests.java \
-
     # src/TestPointT.java \
     # src/TestLanduseMapT.java \
     # src/TestDemT.java \
